@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": { 
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ankit Arora",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.5"
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.9"
   }
 }
